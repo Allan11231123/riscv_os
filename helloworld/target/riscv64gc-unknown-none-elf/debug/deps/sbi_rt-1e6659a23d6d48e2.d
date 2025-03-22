@@ -1,0 +1,14 @@
+/home/allan/repos/rcore_ws/riscv_os/helloworld/target/riscv64gc-unknown-none-elf/debug/deps/libsbi_rt-1e6659a23d6d48e2.rmeta: /home/allan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sbi-rt-0.0.2/src/lib.rs /home/allan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sbi-rt-0.0.2/src/binary.rs /home/allan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sbi-rt-0.0.2/src/base.rs /home/allan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sbi-rt-0.0.2/src/legacy.rs /home/allan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sbi-rt-0.0.2/src/time.rs /home/allan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sbi-rt-0.0.2/src/spi.rs /home/allan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sbi-rt-0.0.2/src/rfnc.rs /home/allan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sbi-rt-0.0.2/src/hsm.rs /home/allan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sbi-rt-0.0.2/src/srst.rs /home/allan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sbi-rt-0.0.2/src/pmu.rs
+
+/home/allan/repos/rcore_ws/riscv_os/helloworld/target/riscv64gc-unknown-none-elf/debug/deps/sbi_rt-1e6659a23d6d48e2.d: /home/allan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sbi-rt-0.0.2/src/lib.rs /home/allan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sbi-rt-0.0.2/src/binary.rs /home/allan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sbi-rt-0.0.2/src/base.rs /home/allan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sbi-rt-0.0.2/src/legacy.rs /home/allan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sbi-rt-0.0.2/src/time.rs /home/allan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sbi-rt-0.0.2/src/spi.rs /home/allan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sbi-rt-0.0.2/src/rfnc.rs /home/allan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sbi-rt-0.0.2/src/hsm.rs /home/allan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sbi-rt-0.0.2/src/srst.rs /home/allan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sbi-rt-0.0.2/src/pmu.rs
+
+/home/allan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sbi-rt-0.0.2/src/lib.rs:
+/home/allan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sbi-rt-0.0.2/src/binary.rs:
+/home/allan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sbi-rt-0.0.2/src/base.rs:
+/home/allan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sbi-rt-0.0.2/src/legacy.rs:
+/home/allan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sbi-rt-0.0.2/src/time.rs:
+/home/allan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sbi-rt-0.0.2/src/spi.rs:
+/home/allan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sbi-rt-0.0.2/src/rfnc.rs:
+/home/allan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sbi-rt-0.0.2/src/hsm.rs:
+/home/allan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sbi-rt-0.0.2/src/srst.rs:
+/home/allan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sbi-rt-0.0.2/src/pmu.rs:
